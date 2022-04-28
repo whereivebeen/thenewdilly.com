@@ -95,7 +95,7 @@ const keyMap = {
   goToNotifications: 'g n',
   goToLocal: 'g l',
   goToFederated: 'g t',
-  goToDirect: 'g d',
+  goToDirect: 'g c',
   goToStart: 'g s',
   goToFavourites: 'g f',
   goToPinned: 'g p',
